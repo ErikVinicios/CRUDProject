@@ -1,0 +1,73 @@
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.AssemblyReference.cache
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.exe.config
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Form1.resources
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Properties.Resources.resources
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.GenerateResource.cache
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.CoreCompileInputs.cache
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe.config
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\CRUDProject.pdb
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\MySql.Data.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\ZstdNet.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\System.Buffers.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\bin\Debug\MySql.Data.xml
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.CopyComplete
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.exe
+C:\Users\Erik Santos\source\repos\CRUDProject\CRUDProject\obj\Debug\CRUDProject.pdb
+E:\C#\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe.config
+E:\C#\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe
+E:\C#\CRUDProject\CRUDProject\bin\Debug\CRUDProject.pdb
+E:\C#\CRUDProject\CRUDProject\bin\Debug\MySql.Data.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\Google.Protobuf.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\ZstdNet.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\Ubiety.Dns.Core.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\System.Buffers.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\K4os.Compression.LZ4.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\K4os.Hash.xxHash.dll
+E:\C#\CRUDProject\CRUDProject\bin\Debug\MySql.Data.xml
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.AssemblyReference.cache
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.SuggestedBindingRedirects.cache
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.exe.config
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Form1.resources
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Properties.Resources.resources
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.GenerateResource.cache
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.CoreCompileInputs.cache
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.CopyComplete
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.exe
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.pdb
+F:\C#\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe.config
+F:\C#\CRUDProject\CRUDProject\bin\Debug\CRUDProject.exe
+F:\C#\CRUDProject\CRUDProject\bin\Debug\CRUDProject.pdb
+F:\C#\CRUDProject\CRUDProject\bin\Debug\Google.Protobuf.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\ZstdNet.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\BouncyCastle.Crypto.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\Ubiety.Dns.Core.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\System.Memory.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\System.Buffers.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\K4os.Compression.LZ4.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\K4os.Hash.xxHash.dll
+F:\C#\CRUDProject\CRUDProject\bin\Debug\MySql.Data.xml
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.AssemblyReference.cache
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.SuggestedBindingRedirects.cache
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.exe.config
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Form1.resources
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.Properties.Resources.resources
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.GenerateResource.cache
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.CoreCompileInputs.cache
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.csproj.CopyComplete
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.exe
+F:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.pdb
+E:\C#\CRUDProject\CRUDProject\bin\Debug\System.Memory.dll
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.ucCreate.resources
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.ucDelete.resources
+E:\C#\CRUDProject\CRUDProject\obj\Debug\CRUDProject.ucUpdate.resources
